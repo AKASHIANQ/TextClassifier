@@ -1,0 +1,3 @@
+com\example\textclassifier\controller\ClassificationController.class
+com\example\textclassifier\TextClassifierApplication.class
+com\example\textclassifier\service\GeminiService.class
